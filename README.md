@@ -1,1 +1,1 @@
-# gitmui_rel
+* gitmui - a graphical Git Frontend for MorphOS
